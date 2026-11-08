@@ -205,3 +205,6 @@ This repository serves as the official landing page for NCH BroadCam. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NCH BroadCam today!**
+
+---
+**Last updated:** 2026-11-08 09:39:47 UTC
