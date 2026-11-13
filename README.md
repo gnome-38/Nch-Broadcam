@@ -207,4 +207,4 @@ This repository serves as the official landing page for NCH BroadCam. The softwa
 **Get the most recent version of NCH BroadCam today!**
 
 ---
-**Last updated:** 2026-11-12 21:13:37 UTC
+**Last updated:** 2026-11-13 02:14:21 UTC
